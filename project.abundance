@@ -7,23 +7,19 @@
   "ioValues": [
     {
       "name": "width",
-      "ioValue": 22,
-      "currentEquation": "22"
+      "ioValue": 22
     },
     {
       "name": "length",
-      "ioValue": 16,
-      "currentEquation": "16"
+      "ioValue": 16
     },
     {
       "name": "radius",
-      "ioValue": 3,
-      "currentEquation": "3"
+      "ioValue": 3
     },
     {
       "name": "height",
-      "ioValue": 1,
-      "currentEquation": "1"
+      "ioValue": 1
     }
   ],
   "topLevel": true,
@@ -53,13 +49,11 @@
         },
         {
           "name": "rad",
-          "ioValue": 3,
-          "currentEquation": "3"
+          "ioValue": 3
         },
         {
           "name": "length",
-          "ioValue": 16,
-          "currentEquation": "1"
+          "ioValue": 16
         }
       ],
       "codeVersion": 1,
