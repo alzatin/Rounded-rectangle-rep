@@ -1,0 +1,15 @@
+{
+    "atomType": "Molecule",
+    "name": "Rounded-rectangle-rep",
+    "x": 0,
+    "y": 0,
+    "uniqueID": "cda49ba0-13f8-4029-b2b8-230ed42791e4",
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [],
+    "allConnectors": [],
+    "unitsKey": "MM",
+    "fileTypeVersion": 1,
+    "compiledBom": {},
+    "filetypeVersion": 1
+}
